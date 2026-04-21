@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Premium card sleeves</title>
+  <desc id="desc">A stack of matte trading card sleeves on a neutral tabletop.</desc>
+  <rect width="800" height="600" fill="#e9e3d8"/>
+  <rect x="160" y="120" width="300" height="390" rx="24" fill="#f8f6f1" stroke="#1d1b1a" stroke-width="10"/>
+  <rect x="207" y="168" width="300" height="390" rx="24" fill="#ffffff" stroke="#0c6b66" stroke-width="10"/>
+  <rect x="254" y="216" width="300" height="390" rx="24" fill="#f8f6f1" stroke="#8e2b2b" stroke-width="10"/>
+  <rect x="306" y="271" width="196" height="278" rx="16" fill="#d8eee9"/>
+  <circle cx="404" cy="410" r="48" fill="#0c6b66" opacity=".16"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Booster pack storage case</title>
+  <desc id="desc">A storage case with upright sealed booster packs.</desc>
+  <rect width="800" height="600" fill="#e9e3d8"/>
+  <rect x="146" y="240" width="508" height="230" rx="24" fill="#f8f6f1" stroke="#1d1b1a" stroke-width="10"/>
+  <g stroke="#8e2b2b" stroke-width="8" stroke-linejoin="round">
+    <path d="M228 145h84l30 190h-144z" fill="#ffffff"/>
+    <path d="M348 120h92l28 215h-148z" fill="#d8eee9"/>
+    <path d="M478 154h82l28 181h-140z" fill="#ffffff"/>
+  </g>
+  <rect x="190" y="325" width="420" height="72" rx="14" fill="#0c6b66"/>
+  <rect x="310" y="420" width="180" height="18" rx="9" fill="#b88a3d"/>
+</svg>

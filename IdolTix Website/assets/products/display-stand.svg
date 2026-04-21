@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Acrylic card display stand</title>
+  <desc id="desc">A clear display stand holding a trading card.</desc>
+  <rect width="800" height="600" fill="#eee8de"/>
+  <rect x="292" y="96" width="216" height="300" rx="18" fill="#ffffff" stroke="#1d1b1a" stroke-width="9"/>
+  <rect x="323" y="131" width="154" height="206" rx="14" fill="#d8eee9"/>
+  <circle cx="400" cy="234" r="48" fill="#0c6b66" opacity=".18"/>
+  <path d="M236 452h328l-42 54H278z" fill="#cfe4e2" stroke="#0c6b66" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M312 396h176l36 56H276z" fill="#ffffff" opacity=".7" stroke="#9dc4bf" stroke-width="8" stroke-linejoin="round"/>
+</svg>

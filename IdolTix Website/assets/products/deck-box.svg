@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Compact deck box</title>
+  <desc id="desc">A compact trading card deck box with a hinged lid.</desc>
+  <rect width="800" height="600" fill="#ece6dc"/>
+  <path d="M185 250h430l-55 220H240z" fill="#0c6b66"/>
+  <path d="M240 250l62-120h360l-47 120z" fill="#163f37"/>
+  <path d="M302 130l-117 120h430l47-120z" fill="#f8f6f1" stroke="#1d1b1a" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M245 278h310l-26 92H271z" fill="#ffffff" opacity=".8"/>
+  <rect x="332" y="398" width="136" height="22" rx="11" fill="#f2c46d"/>
+</svg>

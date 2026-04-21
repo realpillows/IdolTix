@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">9-pocket binder</title>
+  <desc id="desc">A collector card binder open to nine display pockets.</desc>
+  <rect width="800" height="600" fill="#e9e3d8"/>
+  <rect x="168" y="112" width="464" height="376" rx="22" fill="#1d1b1a"/>
+  <rect x="204" y="145" width="392" height="310" rx="10" fill="#f9f7f1"/>
+  <g fill="#d8eee9" stroke="#0c6b66" stroke-width="6">
+    <rect x="231" y="170" width="94" height="74" rx="7"/>
+    <rect x="353" y="170" width="94" height="74" rx="7"/>
+    <rect x="475" y="170" width="94" height="74" rx="7"/>
+    <rect x="231" y="262" width="94" height="74" rx="7"/>
+    <rect x="353" y="262" width="94" height="74" rx="7"/>
+    <rect x="475" y="262" width="94" height="74" rx="7"/>
+    <rect x="231" y="354" width="94" height="74" rx="7"/>
+    <rect x="353" y="354" width="94" height="74" rx="7"/>
+    <rect x="475" y="354" width="94" height="74" rx="7"/>
+  </g>
+  <line x1="400" y1="145" x2="400" y2="455" stroke="#cfc7bd" stroke-width="8"/>
+</svg>
