@@ -1,4 +1,18 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/policies/terms",
+      "destination": "/policies/terms.html"
+    },
+    {
+      "source": "/policies/shipping-refund",
+      "destination": "/policies/shipping-refund.html"
+    },
+    {
+      "source": "/policies/privacy",
+      "destination": "/policies/privacy.html"
+    }
+  ]
 }
